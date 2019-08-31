@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.198,C:\Users\kubus\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\kubus\Desktop\Škola\PRG\rocnikova_prace\project_f.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.503,C:\Users\kubus\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\kubus\Desktop\Škola\PRG\rocnikova_prace\project.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.198,C:\Users\kubus\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\kubus\Desktop\Škola\PRG\rocnikova_prace\project_f.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.702,=C:\Users\kubus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/10 20:41:30.000.544,=C:\Users\kubus\Desktop\rocnikova_prace-20190508T090641Z-001\rocnikova_prace\ABOUT.pas</Transaction>
+  </Transactions>
+</BorlandProject>
