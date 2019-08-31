@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="280" height="240" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css"><![CDATA[
+      polygon, polyline {stroke-linejoin:round}
+      line, polyline {stroke-linecap:round}
+      text {font: italic 1.2em "Times New Roman",serif}
+    ]]></style>
+  <text x="97" y="237" text-anchor="middle">a</text>
+  <text x="210" y="208" text-anchor="middle">a</text>
+  <text x="240" y="100" text-anchor="middle">a</text>
+  <text x="125" y="110" text-anchor="middle" fill="#cf000f">u</text>
+  <text x="125" y="210" text-anchor="middle" fill="#1f3a93">u</text>
+  <text x="132" y="215" text-anchor="middle" fill="#1f3a93" style="font-size:0.8em">s</text>
+<!-- uhlopricky -->
+  <line x1="20" y1="66" x2="230" y2="168" stroke="#cf000f" />
+  <line x1="20" y1="222" x2="230" y2="168" stroke="#1f3a93" />
+<!-- krychle -->
+  <polygon points="20,66 174,66 230,10 230,168 174,222 20,222" stroke="#000000" fill="none" stroke-width="2" />
+  <polyline points="20,66 76,10 230,10" stroke="#000000" fill="none" stroke-width="2" />
+  <line x1="174" y1="66" x2="174" y2="222" stroke="#000000" fill="none" stroke-width="2" />
+  <polyline points="20,222 76,168 230,168" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="5,3" />
+  <line x1="76" y1="10" x2="76" y2="168" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="5,3" />
+ </svg>
